@@ -1,2 +1,14 @@
-# Hello There
-![til](./src/star-wars-hello-there.gif)
+![til](./src/star-wars-hello-there.gif)]
+
+# About Me
+
+**Name:** Kai Loh
+
+**Education:** B.S. Mechanical Engineering, UH'22 (Go Coogs! 🐾)
+
+**Work Experience:** 
+- Aug 2022 - Present: Associate SWE @ Capital One
+- Feb 2022 - Aug 2022: CODA Associate @ Capital One
+- May 2021 - Dec 2021: Mechanical Engineering Intern @ BASF
+- Jan 2019 - Aug 2019: Maintenance and Reliability Engineering Co-Op @ DuPont 
+
