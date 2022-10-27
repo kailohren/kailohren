@@ -4,7 +4,7 @@
 
 **Name:** Kai Loh
 
-**Education:** B.S. Mechanical Engineering, UH'22 (Go Coogs! 🐾)
+**Education:** B.S. Mechanical Engineering, UH'21 (Go Coogs! 🐾)
 
 **Work Experience:** 
 - Aug 2022 - Present: Associate SWE @ Capital One
