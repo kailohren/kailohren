@@ -12,3 +12,6 @@
 - May 2021 - Dec 2021: Mechanical Engineering Intern @ BASF
 - Jan 2019 - Aug 2019: Maintenance and Reliability Engineering Co-Op @ DuPont 
 
+**Tech Stack**
+- Languages: Javascript (Vanilla/React), SQL
+- Certifications: AWS Solutions Architect - Associate, CSSE Associate
