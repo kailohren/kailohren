@@ -1,4 +1,4 @@
-![til](./src/star-wars-hello-there.gif)]
+![til](./src/star-wars-hello-there.gif)
 
 # About Me
 
